@@ -38,3 +38,44 @@
     height: 400px;
     background-size: cover;
 }
+
+.background-comics {
+    background-image: url("../img/footer-bg.jpg");
+}
+
+.white {
+    color: white;
+}
+
+.gray {
+    color: gray;
+    text-decoration: none;
+}
+
+.lista {
+    list-style: none;
+    padding: 0;
+}
+
+.sfondo-dc {
+    width: 100%;
+    transform: translate(15%, -20%);
+}
+
+.background-gray {
+    background-color: #383838;
+}
+
+.blue {
+    color: #0C7CEC;
+}
+
+.sign-up-btn {
+    border: 2px solid #0C7CEC;
+    border-radius: 0;
+    padding: .7rem;
+}
+
+.icone {
+    width: 65%;
+}
